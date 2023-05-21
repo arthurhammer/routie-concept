@@ -10,14 +10,13 @@ I created the design concept in 2020 to start work on my next app.
 
 ## Motivation
 
-As a trail runner and hiker, I was searching for the perfect mobile route planner. At the time, there were many web-based planners but not many powerful ones on mobile. I wanted to fill the gap.
+As a trail runner and hiker, I was searching for the perfect mobile route planner. At the time, there were many web-based planners but not many powerful ones on mobile.
 
 **Limitations of existing apps**:
 - Complex UI/UX
 - Limited route editing features
 - No way to insert waypoints anywhere on the route
 - No drag and drop of waypoints to adapt the route on the fly
-- No elevation chart (some apps)
 - Limited route import/export capabilities for use in GPS devices and wearables
 
 **Routie goals**:
